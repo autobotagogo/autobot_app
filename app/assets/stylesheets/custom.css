@@ -1,5 +1,7 @@
 .container {
   width: 710px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body {
@@ -92,7 +94,6 @@ a.signup_button {
   font-weight: bold;
   padding: 20px;
 }
-
 /* Round corners */
 
 .round {
